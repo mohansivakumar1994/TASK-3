@@ -1,0 +1,765 @@
+fiveserver.js:1 [Five Server] connecting...
+script.js:7 Cyprus
+script.js:7 Eritrea
+script.js:7 Liberia
+script.js:7 Bermuda
+script.js:7 Vatican City
+script.js:7 Cook Islands
+script.js:7 Somalia
+script.js:7 Zambia
+script.js:7 Venezuela
+script.js:7 Turkmenistan
+script.js:7 Albania
+script.js:7 Croatia
+script.js:7 United Kingdom
+script.js:7 Sudan
+ Timor-Leste
+ Republic of the Congo
+ Azerbaijan
+ Kenya
+ American Samoa
+ Ivory Coast
+ Senegal
+ Vietnam
+ El Salvador
+ Afghanistan
+ Saint Martin
+ Latvia
+ Guatemala
+ Kuwait
+ São Tomé and Príncipe
+ Kyrgyzstan
+ Poland
+ Guam
+ Ghana
+ Lithuania
+ Armenia
+ Jersey
+ Grenada
+ Tajikistan
+ Ethiopia
+ Western Sahara
+ Morocco
+ Puerto Rico
+ Christmas Island
+ New Zealand
+ Brunei
+ French Guiana
+ Niue
+ Romania
+ Svalbard and Jan Mayen
+ Belarus
+ Panama
+ Cameroon
+ Czechia
+ Saint Barthélemy
+ Greece
+ Mali
+ Martinique
+ France
+ Pakistan
+ Peru
+ Barbados
+ Greenland
+ Saint Pierre and Miquelon
+ Chad
+ Hungary
+ Comoros
+ Bangladesh
+ Tokelau
+ Fiji
+ China
+ Colombia
+ British Virgin Islands
+ Algeria
+ Maldives
+ Malaysia
+ Cayman Islands
+ Spain
+ Ireland
+ Estonia
+ Paraguay
+ Uruguay
+ South Africa
+ Saint Lucia
+ Vanuatu
+ Finland
+ Sweden
+ British Indian Ocean Territory
+ Lebanon
+ United States
+ Chile
+ Norfolk Island
+ Montserrat
+ Australia
+ Belize
+ Guyana
+ Mongolia
+ Tuvalu
+ Dominican Republic
+ Equatorial Guinea
+ Saint Kitts and Nevis
+ Bolivia
+ Nepal
+ French Southern and Antarctic Lands
+ Taiwan
+ Benin
+ Bulgaria
+ Moldova
+ Isle of Man
+ Bhutan
+ Cambodia
+ Antigua and Barbuda
+ Haiti
+ Cape Verde
+ Georgia
+ Burundi
+ Bahamas
+ Mauritius
+ Libya
+ Malawi
+ Mexico
+ Eswatini
+ Papua New Guinea
+ Dominica
+ Liechtenstein
+ Russia
+ Israel
+ Singapore
+ Uganda
+ Slovakia
+ Tonga
+ United Arab Emirates
+ Mayotte
+ Suriname
+ Uzbekistan
+ Saudi Arabia
+ Egypt
+ Italy
+ Madagascar
+ New Caledonia
+ Canada
+ United States Virgin Islands
+ Marshall Islands
+ Mauritania
+ Gambia
+ Trinidad and Tobago
+ Seychelles
+ Japan
+ Brazil
+ Syria
+ Saint Helena, Ascension and Tristan da Cunha
+ Tanzania
+ Andorra
+ Iran
+ Togo
+ Malta
+ South Korea
+ Samoa
+ Germany
+ Niger
+ Bouvet Island
+ Jamaica
+ Nicaragua
+ Guinea
+ Anguilla
+ Åland Islands
+ Belgium
+ Portugal
+ Denmark
+ Philippines
+ Wallis and Futuna
+ Austria
+ Guinea-Bissau
+ Monaco
+ Namibia
+ United States Minor Outlying Islands
+ Costa Rica
+ Bosnia and Herzegovina
+ Macau
+ Mozambique
+ Réunion
+ Montenegro
+ North Korea
+ Northern Mariana Islands
+ Ukraine
+ Iraq
+ South Georgia
+ Angola
+ Sierra Leone
+ Micronesia
+ Cuba
+ Turks and Caicos Islands
+ Serbia
+ Ecuador
+ Faroe Islands
+ Antarctica
+ Palestine
+ Turkey
+ Kiribati
+ Kazakhstan
+ Gibraltar
+ Iceland
+ Palau
+ Qatar
+ Switzerland
+ French Polynesia
+ Pitcairn Islands
+ Jordan
+ Myanmar
+ Thailand
+ Caribbean Netherlands
+script.js:7 Aruba
+script.js:7 Guadeloupe
+script.js:7 Nigeria
+script.js:7 Bahrain
+script.js:7 Laos
+script.js:7 Cocos (Keeling) Islands
+script.js:7 Djibouti
+script.js:7 Solomon Islands
+script.js:7 Heard Island and McDonald Islands
+script.js:7 India
+script.js:7 San Marino
+script.js:7 Luxembourg
+script.js:7 Sint Maarten
+script.js:7 Falkland Islands
+script.js:7 Central African Republic
+script.js:7 Botswana
+script.js:7 Curaçao
+script.js:7 Guernsey
+script.js:7 Norway
+script.js:7 Gabon
+script.js:7 Zimbabwe
+script.js:7 Lesotho
+script.js:7 Slovenia
+script.js:7 Argentina
+script.js:7 Burkina Faso
+script.js:7 Yemen
+script.js:7 DR Congo
+script.js:7 Oman
+script.js:7 Indonesia
+script.js:7 Nauru
+script.js:7 Rwanda
+script.js:7 North Macedonia
+script.js:7 Kosovo
+script.js:7 Netherlands
+script.js:7 Tunisia
+script.js:7 South Sudan
+script.js:7 Honduras
+script.js:7 Saint Vincent and the Grenadines
+script.js:7 Sri Lanka
+script.js:7 Hong Kong
+ 1207361
+ 5352000
+ 5057677
+ 63903
+ 451
+ 18100
+ 15893219
+ 18383956
+ 28435943
+ 6031187
+ 2837743
+ 4047200
+ 67215293
+ 43849269
+ 1318442
+ 5657000
+ 10110116
+ 53771300
+ 55197
+ 26378275
+ 16743930
+ 97338583
+ 6486201
+ 40218234
+ 38659
+ 1901548
+ 16858333
+ 4270563
+ 219161
+ 6591600
+ 37950802
+ 168783
+ 31072945
+ 2794700
+ 2963234
+ 100800
+ 112519
+ 9537642
+ 114963583
+ 510713
+ 36910558
+ 3194034
+ 2072
+ 5084300
+ 437483
+ 254541
+ 1470
+ 19286123
+ 2562
+ 9398861
+ 4314768
+ 26545864
+ 10698896
+ 4255
+ 10715549
+ 20250834
+ 378243
+ 67391582
+ 220892331
+ 32971846
+ 287371
+ 56367
+ 6069
+ 16425859
+ 9749763
+ 869595
+ 164689383
+ 1411
+ 896444
+ 1402112000
+ 50882884
+ 30237
+ 44700000
+ 540542
+ 32365998
+ 65720
+ 47351567
+ 4994724
+ 1331057
+ 7132530
+ 3473727
+ 59308690
+ 183629
+ 307150
+ 5530719
+ 10353442
+ 3000
+ 6825442
+ 329484123
+ 19116209
+ 2302
+ 4922
+ 25687041
+ 397621
+ 786559
+ 3278292
+ 11792
+ 10847904
+ 1402985
+ 53192
+ 11673029
+ 29136808
+ 400
+ 23503349
+ 12123198
+ 6927288
+ 2617820
+ 85032
+ 771612
+ 16718971
+ 97928
+ 11402533
+ 555988
+ 3714000
+ 11890781
+ 393248
+ 1265740
+ 6871287
+ 19129955
+ 128932753
+ 1160164
+ 8947027
+ 71991
+ 38137
+ 144104080
+ 9216900
+ 5685807
+ 45741000
+ 5458827
+ 105697
+ 9890400
+ 226915
+ 586634
+ 34232050
+ 34813867
+ 102334403
+ 59554023
+ 27691019
+ 271960
+ 38005238
+ 106290
+ 59194
+ 4649660
+ 2416664
+ 1399491
+ 98462
+ 125836021
+ 212559409
+ 17500657
+ 53192
+ 59734213
+ 77265
+ 83992953
+ 8278737
+ 525285
+ 51780579
+ 198410
+ 83240525
+ 24206636
+ 0
+ 2961161
+ 6624554
+ 13132792
+ 13452
+ 29458
+ 11555997
+ 10305564
+ 5831404
+ 109581085
+ 11750
+ 8917205
+ 1967998
+ 39244
+ 2540916
+ 300
+ 5094114
+ 3280815
+ 649342
+ 31255435
+ 840974
+ 621718
+ 25778815
+ 57557
+ 44134693
+ 40222503
+ 30
+ 32866268
+ 7976985
+ 115021
+ 11326616
+ 38718
+ 6908224
+ 17643060
+ 48865
+ 1000
+ 4803269
+ 84339067
+ 119446
+ 18754440
+ 33691
+ 366425
+ 18092
+ 2881060
+ 8654622
+ 280904
+ 56
+ 10203140
+ 54409794
+ 69799978
+ 25987
+ 106766
+ 400132
+ 206139587
+ 1701583
+ 7275556
+ 544
+ 988002
+ 686878
+ 0
+ 1380004385
+ 33938
+ 632275
+ 40812
+ 2563
+ 4829764
+ 2351625
+ 155014
+ 62999
+ 5379475
+ 2225728
+ 14862927
+ 2142252
+ 2100126
+ 45376763
+ 20903278
+ 29825968
+ 108407721
+ 5106622
+ 273523621
+ 10834
+ 12952209
+ 2077132
+ 1775378
+ 16655799
+ 11818618
+ 11193729
+ 9904608
+ 110947
+ 21919000
+ 7500700
+ Europe
+ Africa
+ Africa
+ Americas
+ Europe
+ Oceania
+ Africa
+ Africa
+ Americas
+ Asia
+ Europe
+ Europe
+ Europe
+ Africa
+ Asia
+ Africa
+ Asia
+ Africa
+ Oceania
+ Africa
+ Africa
+ Asia
+ Americas
+ Asia
+ Americas
+ Europe
+ Americas
+ Asia
+ Africa
+ Asia
+ Europe
+ Oceania
+ Africa
+ Europe
+ Asia
+ Europe
+ Americas
+ Asia
+ Africa
+ Africa
+ Africa
+ Americas
+ Oceania
+ Oceania
+ Asia
+ Americas
+ Oceania
+ Europe
+ Europe
+ Europe
+ Americas
+ Africa
+ Europe
+ Americas
+ Europe
+ Africa
+ Americas
+ Europe
+ Asia
+ Americas
+ Americas
+ Americas
+ Americas
+ Africa
+ Europe
+ Africa
+ Asia
+ Oceania
+ Oceania
+ Asia
+ Americas
+ Americas
+ Africa
+ Asia
+ Asia
+ Americas
+ Europe
+ Europe
+ Europe
+ Americas
+ Americas
+ Africa
+ Americas
+ Oceania
+ Europe
+ Europe
+ Africa
+ Asia
+ Americas
+ Americas
+ Oceania
+ Americas
+ Oceania
+ Americas
+ Americas
+ Asia
+ Oceania
+ Americas
+ Africa
+ Americas
+ Americas
+ Asia
+ Antarctic
+ Asia
+ Africa
+ Europe
+ Europe
+ Europe
+ Asia
+ Asia
+ Americas
+ Americas
+ Africa
+ Asia
+ Africa
+ Americas
+ Africa
+ Africa
+ Africa
+ Americas
+ Africa
+ Oceania
+ Americas
+ Europe
+ Europe
+ Asia
+ Asia
+ Africa
+ Europe
+ Oceania
+ Asia
+ Africa
+ Americas
+ Asia
+ Asia
+ Africa
+ Europe
+ Africa
+ Oceania
+ Americas
+ Americas
+ Oceania
+ Africa
+ Africa
+ Americas
+ Africa
+ Asia
+ Americas
+ Asia
+ Africa
+ Africa
+ Europe
+ Asia
+ Africa
+ Europe
+ Asia
+ Oceania
+ Europe
+ Africa
+ Antarctic
+ Americas
+ Americas
+ Africa
+ Americas
+ Europe
+ Europe
+ Europe
+ Europe
+ Asia
+ Oceania
+ Europe
+ Africa
+ Europe
+ Africa
+ Americas
+ Americas
+ Europe
+ Asia
+ Africa
+ Africa
+ Europe
+ Asia
+ Oceania
+ Europe
+ Asia
+ Antarctic
+ Africa
+ Africa
+ Oceania
+ Americas
+ Americas
+ Europe
+ Americas
+ Europe
+ Antarctic
+ Asia
+ Asia
+ Oceania
+ Asia
+ Europe
+ Europe
+ Oceania
+ Asia
+ Europe
+ Oceania
+ Oceania
+ Asia
+ Asia
+ Asia
+ Americas
+ Americas
+ Americas
+ Africa
+ Asia
+ Asia
+ Oceania
+ Africa
+ Oceania
+ Antarctic
+ Asia
+ Europe
+ Europe
+ Americas
+ Americas
+ Africa
+ Africa
+ Americas
+ Europe
+ Europe
+ Africa
+ Africa
+ Africa
+ Europe
+ Americas
+ Africa
+ Asia
+ Africa
+ Asia
+ Asia
+ Oceania
+ Africa
+ Europe
+ Europe
+ Europe
+ Africa
+ Africa
+ Americas
+ Americas
+ Asia
+ Asia
+ Southern Europe
+ Eastern Africa
+ Western Africa
+ North America
+ Southern Europe
+ Polynesia
+ Eastern Africa
+ Eastern Africa
+ South America
+ Central Asia
+ Southeast Europe
+ Southeast Europe
+ Northern Europe
+ Northern Africa
